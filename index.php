@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Unsplash Random Block
+ * Plugin Name: Unsplash.com random image block
  * Version: 1.0.0
  * License: GPL2+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
